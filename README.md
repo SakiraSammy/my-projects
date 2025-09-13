@@ -1,3 +1,8 @@
+
+https://api.darululoom-islamia.org/api/notice
+
+
+
 html file(index.html)
 <!DOCTYPE html>
 <html lang="en">
