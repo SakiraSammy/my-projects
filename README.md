@@ -1,3 +1,11 @@
+whatsapp
+
+http://103.92.154.211:4000/
+
+Demo Credentials:
+Username: admin
+Password: Wh@ts4pp!Bulk#2024$
+
 
 https://api.darululoom-islamia.org/api/notice
 
